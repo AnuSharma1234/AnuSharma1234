@@ -4,12 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">hi, i'm <a href="https://yuna0x0.com">yuna0x0</a>!</h1>
-<p align="center">
-  <a href="https://anurag-sharma-iota.vercel.app/">
-    <img src="https://yuna0x0.com/88x31.webp" alt="anurag189s">
-  </a>
-</p>
+<h1 align="center">hi, i'm <a href="https://yuna0x0.com">anurag~</a>!</h1>
 <h3 align="center">welcome to my profile :3</h3>
 
 <p align="center">curious builder in ai , crafting web apps, backend systems, and developer tools～☆</p>
