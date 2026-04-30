@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://anurag-sharma-iota.vercel.app/">
-    <img src="https://i.ibb.co/DfpzDhND/twitter-pfp.jpg" alt="Banner" width="50%">
+    <img src="https://i.ibb.co/gFWwvnNQ/download.jpg" alt="Banner" width="50%">
   </a>
 </p>
 
-<h1 align="center">hi, i'm <a href="https://yuna0x0.com">anurag~</a>!</h1>
+<h1 align="center">hi, i'm <a href="https://anurag-sharma-iota.vercel.app">anurag~</a>!</h1>
 <h3 align="center">welcome to my profile :3</h3>
 
 <p align="center">curious builder in ai , crafting web apps, backend systems, and developer tools～☆</p>
@@ -16,8 +16,7 @@
 </p>
 
 <p align="center">
-	<a href="https://octo-ring.com/p/yuna0x0/prev">&larr;</a>
-	<a class="cactus-link" href="https://octo-ring.com">Octo Ring</a>
-	<a href="https://octo-ring.com/p/yuna0x0/random">🎲</a>
-	<a href="https://octo-ring.com/p/yuna0x0/next">&rarr;</a>
+	<a href="">&rarr;</a>
+	<a class="cactus-link" href="https://youtu.be/NBqHVjyDFfQ">go watch this</a>
+	<a href="">📺</a>
 </p>
