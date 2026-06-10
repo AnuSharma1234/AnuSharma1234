@@ -17,6 +17,6 @@
 
 <p align="center">
 	<a href="">&rarr;</a>
-	<a class="cactus-link" href="https://youtu.be/NBqHVjyDFfQ">go watch this</a>
+	<a class="cactus-link" href="https://youtu.be/QDia3e12czc">go watch this</a>
 	<a href="">📺</a>
 </p>
