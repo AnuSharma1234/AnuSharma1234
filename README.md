@@ -37,7 +37,7 @@
 ![Go](https://img.shields.io/badge/Go-%231e1e2e?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%231e1e2e?style=for-the-badge&logo=python&logoColor=f9e2af)
 ![Bash](https://img.shields.io/badge/Bash-%231e1e2e?style=for-the-badge&logo=gnu-bash&logoColor=a6e3a1)
-![Postgres]([https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql&logoColor=white](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white))
+![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </p>
 
