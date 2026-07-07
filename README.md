@@ -44,8 +44,6 @@
 
 </p>
 
----
-
 <p align="center">
   <a href="https://youtu.be/QDia3e12czc">
     📺 go watch this
