@@ -32,14 +32,14 @@
 ---
 
 <p align="center">
-  
-![C++](https://img.shields.io/badge/C++-%231e1e2e?style=for-the-badge&logo=c%2B%2B&logoColor=89b4fa)
-![Go](https://img.shields.io/badge/Go-%231e1e2e?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%231e1e2e?style=for-the-badge&logo=python&logoColor=f9e2af)
-![Bash](https://img.shields.io/badge/Bash-%231e1e2e?style=for-the-badge&logo=gnu-bash&logoColor=a6e3a1)
-![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+
+![C++](https://img.shields.io/badge/C%2B%2B-1e1e2e?style=for-the-badge&logo=c%2B%2B&logoColor=89b4fa)
+![Go](https://img.shields.io/badge/Go-1e1e2e?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=f9e2af)
+![Bash](https://img.shields.io/badge/Bash-1e1e2e?style=for-the-badge&logo=gnubash&logoColor=a6e3a1)
+![TypeScript](https://img.shields.io/badge/TypeScript-1e1e2e?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e1e2e?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/Redis-1e1e2e?style=for-the-badge&logo=redis&logoColor=DC382D)
 
 </p>
 
