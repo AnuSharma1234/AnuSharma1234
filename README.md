@@ -32,11 +32,9 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-1e1e2e?style=for-the-badge&logo=c%2B%2B&logoColor=89b4fa" />
   <img src="https://img.shields.io/badge/Go-1e1e2e?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=f9e2af" />
   <img src="https://img.shields.io/badge/TypeScript-1e1e2e?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/Bash-1e1e2e?style=for-the-badge&logo=gnubash&logoColor=a6e3a1" />
   <img src="https://img.shields.io/badge/Next.js-1e1e2e?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-1e1e2e?style=for-the-badge&logo=fastapi&logoColor=009688" />
   <img src="https://img.shields.io/badge/PostgreSQL-1e1e2e?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
