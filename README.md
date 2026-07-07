@@ -44,8 +44,3 @@
   <img src="https://img.shields.io/badge/AWS-1e1e2e?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
 </p>
 
-<p align="center">
-  <a href="https://youtu.be/QDia3e12czc">
-    📺 go watch this
-  </a>
-</p>
