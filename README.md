@@ -32,10 +32,12 @@
 ---
 
 <p align="center">
+  
 ![C++](https://img.shields.io/badge/C++-%231e1e2e?style=for-the-badge&logo=c%2B%2B&logoColor=89b4fa)
 ![Go](https://img.shields.io/badge/Go-%231e1e2e?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%231e1e2e?style=for-the-badge&logo=python&logoColor=f9e2af)
 ![Bash](https://img.shields.io/badge/Bash-%231e1e2e?style=for-the-badge&logo=gnu-bash&logoColor=a6e3a1)
+
 </p>
 
 ---
