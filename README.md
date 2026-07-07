@@ -38,6 +38,8 @@
 ![Python](https://img.shields.io/badge/Python-%231e1e2e?style=for-the-badge&logo=python&logoColor=f9e2af)
 ![Bash](https://img.shields.io/badge/Bash-%231e1e2e?style=for-the-badge&logo=gnu-bash&logoColor=a6e3a1)
 ![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 
 </p>
 
