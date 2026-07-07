@@ -41,6 +41,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e1e2e?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Redis](https://img.shields.io/badge/Redis-1e1e2e?style=for-the-badge&logo=redis&logoColor=DC382D)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)
 
 </p>
 
