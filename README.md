@@ -22,8 +22,6 @@
 </p>
 
 <p align="center">
-  <a href="https://anurag-sharma-iota.vercel.app"><strong>Portfolio</strong></a>
-  ·
   <a href="https://x.com/anurag189s"><strong>Twitter</strong></a>
   ·
   <a href="https://www.linkedin.com/in/thisisauragsharma"><strong>LinkedIn</strong></a>
