@@ -10,7 +10,7 @@
 
 <h1 align="center">
   hi, i'm
-  <a href="https://anurag-sharma-iota.vercel.app">anurag~</a>
+  <a href="">anurag~</a>
 </h1>
 
 <h3 align="center">
@@ -22,9 +22,9 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/anurag189s"><strong>Twitter</strong></a>
+  <a href="https://x.com/anurxgdotdev"><strong>Twitter</strong></a>
   ·
-  <a href="https://www.linkedin.com/in/thisisauragsharma"><strong>LinkedIn</strong></a>
+  <a href="https://www.linkedin.com/in/anuragdotdev"><strong>LinkedIn</strong></a>
 </p>
 
 ---
