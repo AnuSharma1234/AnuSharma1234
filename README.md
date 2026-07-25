@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://anurag-sharma-iota.vercel.app">
     <img
-      src="https://i.ibb.co/gFWwvnNQ/download.jpg"
+      src="https://anuragsharma.x02.me/i/64G4Q.png"
       alt="Banner"
       width="50%"
     />
