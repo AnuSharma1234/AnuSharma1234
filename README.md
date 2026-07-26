@@ -1,7 +1,7 @@
 <p align="center">
   <a href="">
     <img
-      src="https://i.ibb.co/VYP7CX10/camus-myth-of-sisyphus.jpg"
+      src="https://i.ibb.co/ZRVJz7TV/napolean-studying.jpg"
       alt="Banner"
       width="50%"
     />
