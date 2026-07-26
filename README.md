@@ -18,7 +18,7 @@
 </h3>
 
 <p align="center">
-  curious builder crafting web apps, backend systems, and developer tools ～☆
+  engineering reliable systems through disciplined code and intentional architecture ～☆
 </p>
 
 <p align="center">
