@@ -1,7 +1,7 @@
 <p align="center">
   <a href="">
     <img
-      src="https://i.ibb.co/ZRVJz7TV/napolean-studying.jpg"
+      src="https://i.ibb.co/fzWd4w0z/rocket.jpg"
       alt="Banner"
       width="50%"
     />
