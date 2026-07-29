@@ -18,7 +18,7 @@
 </h3>
 
 <p align="center">
-  engineering reliable systems through disciplined code and intentional architecture ～☆
+  curious builder in autonomous tech, crafting backend, infrastructure, and AI systems ～☆
 </p>
 
 <p align="center">
