@@ -18,7 +18,7 @@
 </h3>
 
 <p align="center">
-  curious builder in autonomous tech, crafting backend, infrastructure, and AI systems ～☆
+  curious builder in autonomous tech, crafting backend infrastructure, and AI systems ～☆
 </p>
 
 <p align="center">
