@@ -25,6 +25,8 @@
   <a href="https://x.com/anurxgdotdev"><strong>Twitter</strong></a>
   ·
   <a href="https://www.linkedin.com/in/anuragdotdev"><strong>LinkedIn</strong></a>
+  .
+  <a href="https://anurag-sharma-iota.vercel.app/"><strong>anuragdotdev</strong></a>
 </p>
 
 ---
